@@ -1,2 +1,2 @@
-# js-camp
- learning js with Engin Demirog
+# advancedJavaScript
+Starter kit for my JS Courses

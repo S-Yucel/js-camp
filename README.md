@@ -1,2 +1,2 @@
 # advancedJavaScript
-Starter kit for my JS Courses
+with Engin Demirog https://github.com/engindemirog
